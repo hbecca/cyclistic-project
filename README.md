@@ -167,6 +167,7 @@ ORDER BY
 
 ## Visualization
 ![image](https://photos.app.goo.gl/D6Wn2W4GKYPvUznD6)
+
 The above image shows:
 
 1. The cumulative number of rides recorded on the initial card.
