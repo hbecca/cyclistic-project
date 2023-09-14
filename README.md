@@ -166,7 +166,7 @@ ORDER BY
  ```
 
 ## Visualization
-![image](https://photos.app.goo.gl/D6Wn2W4GKYPvUznD6)
+![image](./images/dash.png)
 
 The above image shows:
 
